@@ -1,3 +1,3 @@
-# MNE Code Sprint 2019
+# Braindecode Code Sprint 2023
 
-April 22nd - 27st, at Facebook Office, 6 rue Ménars, Paris
+Starting August 18th on EuroScipy, Basel, Switzerland, and ending at Université Paris-Saclay, France, on September 5th to 7th.
