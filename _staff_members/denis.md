@@ -1,7 +1,7 @@
 ---
 name: Denis Engemann
-position: Developer
+position: Research & Early Development at Roche
 image_path: /images/denis.jpeg
 website: http://www.denis-engemann.de/
-blurb: Research scientist at Roche, core developer of MNE, specialized in large-scale analyses of electrophysiological data (EEG/MEG), statistical learning and biomarker development in clinical neuroscience.
+blurb: I study the human brain using electrophysiology, imaging and machine learning to develop biomarker in next generation therapeutics and diagnostics. 
 ---
